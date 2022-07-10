@@ -1,0 +1,23 @@
+﻿{
+  "FileVersion": 3,
+  "Version": 1,
+  "VersionName": "1.0",
+  "FriendlyName": "DongBaseGameplayClasses",
+  "Description": "Gameplay架构的基础类的拓展",
+  "Category": "Other",
+  "CreatedBy": "Dong Chenyu",
+  "CreatedByURL": "",
+  "DocsURL": "",
+  "MarketplaceURL": "",
+  "CanContainContent": true,
+  "IsBetaVersion": false,
+  "IsExperimentalVersion": false,
+  "Installed": false,
+  "Modules": [
+    {
+      "Name": "DongBaseGameplayClasses",
+      "Type": "Runtime",
+      "LoadingPhase": "Default"
+    }
+  ]
+}
