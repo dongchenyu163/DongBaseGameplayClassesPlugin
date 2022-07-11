@@ -1,3 +1,6 @@
-
+.vscode
+.idea
+.history
 Intermediate/
 Build/
+Binaries
